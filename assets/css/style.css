@@ -89,16 +89,19 @@ p {
     background-color: #2589bd;
 }
 
+/*Refactor the code here to support three classes merged into one by creating one class benefit section*/
 .benefit-section {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/*Refactor the code here to support three classes merged into one by creating one class benefit section*/
 .benefit-section h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/*Refactor the code here to support three classes merged into one by creating one class benefit section*/
 .benefit-section img {
     display: block;
     margin: 10px auto;
